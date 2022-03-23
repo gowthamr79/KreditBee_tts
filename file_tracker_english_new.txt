@@ -1,0 +1,59 @@
+"Hello, I'm calling from ShriRam Housing Finance. Your account is due with Rs. "	7bd4634ed0d198734e808eff07d05f4b
+"EMI_Amount"	a16c66ebc166e9b2d7123a93ec87dda6
+". When can you clear your dues?"	16b3b0268bd898ac62529a73b3415c81
+"Hello- [pause for 0.5 seconds], I'm calling from ShriRam Housing Finance. Your account is due with Rs. "	d3191d15e7ae9d318e388c9109eced1f
+"EMI_Amount"	a16c66ebc166e9b2d7123a93ec87dda6
+". When can you make the payment?"	4a9e5c7f31702af50a874b422be0faa5
+"That's good to know, I’m sending you a payment link on SMS for Rs. "	e229c19fb5ed74fcc2b07fe8ddcd90f8
+"monthly_emi"	064f853b1680a53a12c8a6e1139aca99
+", please make the payment by clicking on the link"	b276a0b22833986b2542a99574d889ac
+"Hello, I'm calling from ShriRam Housing Finance. You have an outstanding of Rs "	46e16727474ee956e7a223544ca9f94c
+"total_amount"	b83b2f95414c6a8e6b110480d3de2979
+" across "	53777307a31d0b74c33a222e0b7ff814
+"no_of_loans"	4f88d402c1509297d641f9c3ac046253
+" loans. When can you make the payment?"	13377d99f720193b22d9a9ee054dd257
+"Hello- [pause for 0.5 seconds], I'm calling from ShriRam Housing finance. You have an outstanding of Rs "	d33124cb47b5207f0f52bd94fc43ca54
+"total_amount"	b83b2f95414c6a8e6b110480d3de2979
+" across "	53777307a31d0b74c33a222e0b7ff814
+"no_of_loans"	4f88d402c1509297d641f9c3ac046253
+" loans. When can you make the payment?"	13377d99f720193b22d9a9ee054dd257
+"Hello, I'm calling from ShriRam Housing finance. Your account is due with Rs. "	35989edaa4ec1b361db9ab22588b3cdb
+"EMI_Amount"	a16c66ebc166e9b2d7123a93ec87dda6
+" for a long time now. When will your dues be cleared?"	b90367d1fcd38c2e04c526682d31fc6b
+"Hello- [pause for 1 second], I'm calling from ShriRam Housing finance. Your account is due with Rs. "	b3da96acfbe84d0bb410d7588c7d1945
+"EMI_Amount"	a16c66ebc166e9b2d7123a93ec87dda6
+" for a long time now. When can you clear your dues at the earliest?"	a05a599a4e2b9a2a043848ce359e76a9
+"Hello, I'm calling from ShriRam Housing finance. Your account is due with Rs. "	35989edaa4ec1b361db9ab22588b3cdb
+"EMI_Amount"	a16c66ebc166e9b2d7123a93ec87dda6
+" for a long time now. When will your dues be cleared?"	b90367d1fcd38c2e04c526682d31fc6b
+"Hello, I'm calling from ShriRam Housing finance. You have an outstanding of Rs "	a041d33d9fbb9812a017dd16a352dd25
+"total_amount"	b83b2f95414c6a8e6b110480d3de2979
+" across "	53777307a31d0b74c33a222e0b7ff814
+"no_of_loans"	4f88d402c1509297d641f9c3ac046253
+" loans for a long time now. When can you make the payment?"	dc2bcd8abddc06a39c88076c7b954e82
+"Hello- [pause for 1 seconds], I'm calling from Shriram Housing finance. You have an outstanding of Rs "	c4a400a7ad7f691516c48295b494af63
+"total_amount"	b83b2f95414c6a8e6b110480d3de2979
+" across "	53777307a31d0b74c33a222e0b7ff814
+"no_of_loans"	4f88d402c1509297d641f9c3ac046253
+" loans for a long time now. When will you make the payment?"	04e9313141bc137d6533d08238c9ff53
+"I'm calling from ShriRam Housing Finance. You've an upcoming EMI of Rs."	b50ce200acbc9ce240f2740bd559dba9
+"monthly_emi"	064f853b1680a53a12c8a6e1139aca99
+" of your loan with us. The due date is "	3f1429568b72c303decaf148d2eba21a
+"monthly_emi_date"	dc5e5fd37125f285180d1d450a3d760f
+". May I know if there is sufficient balance in your account to pay the EMI?"	323f352eb113953a024c9a4235d2976a
+"Okay, just so you know, an EMI of rupees "	413f5c26fabbd7e91af6e1aefd21672a
+"monthly_emi"	064f853b1680a53a12c8a6e1139aca99
+" is due on "	dd1cefd7d136500cc34f66886e67c430
+"monthly_emi_date"	dc5e5fd37125f285180d1d450a3d760f
+". Please maintain sufficient account balance to avoid late charges. Have a good day!"	f31ac4678e110ab7e3f35f8eaa5529c0
+"Your payment date was "	a39fd4f417b509e4d6d862d45c3464fe
+"EMI_Date"	19113fbc7cbc4cc8ad1384ac3f0c9cde
+""	d41d8cd98f00b204e9800998ecf8427e
+"Your account is due with Rs "	150139254a6d167b04cbfea0ab5257a1
+"EMI_Amount"	a16c66ebc166e9b2d7123a93ec87dda6
+" across "	53777307a31d0b74c33a222e0b7ff814
+"no_of_loans"	4f88d402c1509297d641f9c3ac046253
+" loan accounts."	9eb7d1764f797e60767f74f5f1479379
+"Your due amount is Rs. "	bbe86846a98de58fea9695ff71d9993e
+"EMI_Amount"	a16c66ebc166e9b2d7123a93ec87dda6
+""	d41d8cd98f00b204e9800998ecf8427e

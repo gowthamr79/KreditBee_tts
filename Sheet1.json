@@ -1,0 +1,344 @@
+[
+    {
+        "Frame ID": "PreDue",
+        "Response_ID": "utter_greet_predue",
+        "Tone": "Friendly",
+        "Comments": "",
+        "English": "Hi, I'm calling from Kreditbee. You've an upcoming EMI of Rs.{monthly_emi} of your loan with us. The due date is {monthly_emi_date}. May I know if there is sufficient balance in your account to pay the EMI?",
+        "Hindi": "मैं क्रेडिटबी से कॉल कर रही हूँ।आपके लोन अकाउंट पर {monthly_emi_date} को {monthly_emi} रुपये की ईएमआई पेमेंट बाकी है । क्या आप मुझे बता सकते हैं कि आपके अकाउंट में ईएमआई भरने के लिए पर्याप्त बैलेंस है या नहीं ?",
+        "Kannada": "ನಾನು ಕ್ರಿಡಿಟ್ ಬೀಯಿಂದ ಕರೆ ಮಾಡುತ್ತಿದ್ದೇನೆ. ನೀವು ನಮ್ಮೊಂದಿಗೆ  ಮುಂಬರುವ ಸಾಲದ ರೂ.{monthly_emi}  ಇಎಂಐ ಅನ್ನು ಹೊಂದಿರುವಿರಿ ಹಾಗೂ  ಡ್ಯೂ ಡೇಟ್ {monthly_emi_date} ಆಗಿದೆ.ಇಎಂಐ ಪೆ ಮಾಡಲು, ನಿಮ್ಮ ಅಕೌಂಟಲ್ಲಿ  ಸಾಕಷ್ಟು ಬ್ಯಾಲೆನ್ಸ್ ಇದೆಯಾ ಎಂದು ನನಗೆ ತಿಳಿಸಬಹುದಾ?"
+    },
+    {
+        "Frame ID": "PreDue",
+        "Response_ID": "utter_not_avail_talk",
+        "Tone": "Friendly",
+        "Comments": "",
+        "English": "Okay, just so you know, an EMI of rupees {monthly_emi} is due on {monthly_emi_date}. Please maintain sufficient account balance to avoid late charges. Have a good day!",
+        "Hindi": "ओके, आपकी जानकारी के लिए बता दें कि आपकी {monthly_emi_date} को {monthly_emi} रुपए की ईएमआई बाकी है। लेट चार्जेस से बचने के लिए कृपया अपने अकाउंट में पर्याप्त बैलेंस बनाएं रखे । आपका दिन शुभ हो!",
+        "Kannada": "ಸರಿ, ನಿಮಗೆ ತಿಳಿದಿರುವಂತೆ, {monthly_emi} ರೂಪಾಯಿಗಳ ಇಎಂಐ {monthly_emi_date} ರಂದು ಬಾಕಿಯಿದೆ. ಲೇಟ್ ಚಾರ್ಜಸ್ ತಪ್ಪಿಸಲು ದಯವಿಟ್ಟು ಸಾಕಷ್ಟು ಬ್ಯಾಲೆನ್ಸ್ ಅಕೌಂಟಲ್ಲಿ ಮೈನ್ಟೈನ್ ಮಾಡಿ. ಶುಭ ದಿನ!"
+    },
+    {
+        "Frame ID": "PreDue",
+        "Response_ID": "utter_agree_to_pay",
+        "Tone": "Friendly",
+        "Comments": "",
+        "English": "That's good to know. Please maintain sufficient balance in your A/C till the EMI amount is cleared to avoid late charges. Thank you, have a nice day!",
+        "Hindi": "जानकर ख़ुशी हुई। कृपया लेट चार्जेस से बचने के लिए इ एम आई पेमेंट होने तक अपने अकाउंट में पर्याप्त बैलेंस बनाएं रखें । धन्यवाद आपका दिन शुभ हो।",
+        "Kannada": "ಒಳ್ಳೆಯದು. ಲೇಟ್ ಚಾರ್ಜಸ್ ತಪ್ಪಿಸಲು ಇಎಂಐ ಮೊತ್ತವನ್ನು ತೆರವುಗೊಳಿಸುವವರೆಗೆ ದಯವಿಟ್ಟು ನಿಮ್ಮ ಅಕೌಂಟಲ್ಲಿ ಸಾಕಷ್ಟು ಬ್ಯಾಲೆನ್ಸ್ ಅನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ. ಧನ್ಯವಾದಗಳು,ಶುಭ ದಿನ. "
+    },
+    {
+        "Frame ID": "PreDue",
+        "Response_ID": "utter_disagree_to_pay",
+        "Tone": "Neutral",
+        "Comments": "[28/02/2022]CD: Hindi response changed",
+        "English": "If you skip your EMI payment your CIBIL score will be impacted and will also lead to additional late payment charges. We recommend you to maintain sufficient balance to avoid such impact. Will you be able to maintain the balance?",
+        "Hindi": "यदि आप अपना ईएमआई पेमेंट समय से नहीं करते हैं तो आपका सिबिल स्कोर ख़राब होगा और लेट पेमेंट चार्ज भी लगेगा। हमारा सुझाव है कि कृपया आप लेट चार्जेस से बचने के लिए अपने अकाउंट में पर्याप्त बैलेंस बनाएं रखें। क्या आप अपने अकाउंट में पर्याप्त बैलेंस बनाये रख सकते हैं?",
+        "Kannada": "ನಿಮ್ಮ ಇಎಂಐ ಪೆಮೆಂಟನ್ನು ತಪ್ಪಿಸಿದರೆ ,ಅದು  ನಿಮ್ಮ ಸಿಬಿಲ್ ಸ್ಕೋರ್ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಮತ್ತು ಹೆಚ್ಚುವರಿ ಲೇಟ್ ಪೇಮೆಂಟ್  ಚಾರ್ಜಸ್ಗಳಿಗೆ  ಕಾರಣವಾಗುತ್ತದೆ. ಅಂತಹ ಪರಿಣಾಮವನ್ನು ತಪ್ಪಿಸಲು ಸಾಕಷ್ಟು ಮೊತ್ತವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ನಾವು ನಿಮಗೆ ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ.ನಿಮ್ಮ ಅಕೌಂಟಲ್ಲಿ ಬ್ಯಾಲನ್ಸನ್ನು ಮೈನ್ಟೈನ್ ಮಾಡಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗುತ್ತದೆಯೇ?"
+    },
+    {
+        "Frame ID": "PreDue",
+        "Response_ID": "utter_disagree_to_pay_agree",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Okay, please make sure you have sufficient balance in your account. Thank you, have a nice day",
+        "Hindi": "जानकर ख़ुशी हुई। कृपया अकाउंट में पर्याप्त बैलेंस बनाएं रखें । धन्यवाद आपका दिन शुभ हो।",
+        "Kannada": "ಸರಿ, ನಿಮ್ಮ ಖಾತೆಯಲ್ಲಿ ನೀವು ಸಾಕಷ್ಟು ಬ್ಯಾಲೆನ್ಸ್ ಹೊಂದಿರುವಿರಾ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಧನ್ಯವಾದಗಳು, ಶುಭ ದಿನ. "
+    },
+    {
+        "Frame ID": "PreDue",
+        "Response_ID": "utter_disagree_to_pay_disagree",
+        "Tone": "Sympathetic",
+        "Comments": "",
+        "English": "Could you tell me the reason for this delay?",
+        "Hindi": "क्या आप मुझे इस देरी की वजह बता सकते हैं?",
+        "Kannada": "ಈ ವಿಳಂಬಕ್ಕೆ ಕಾರಣವನ್ನು ತಿಳಿಸುತ್ತೀರಾ?"
+    },
+    {
+        "Frame ID": "PreDue",
+        "Response_ID": "utter_disagree_to_pay_reason_medical",
+        "Tone": "Sympathetic",
+        "Comments": "",
+        "English": "I am really sorry to hear that. I will ask my senior to get in touch with you to resolve this. Please take care.",
+        "Hindi": "ये सुनकर दुःख हुआ । हमारे सीनियर एक्जीक्यूटिव आपसे कॉन्टैक्ट करेंगे।अपना ध्यान रखें।",
+        "Kannada": "ಅದನ್ನು ಕೇಳಲು ನಾನು ನಿಜವಾಗಿಯೂ ವಿಷಾದಿಸುತ್ತೇನೆ. ಇದನ್ನು ಪರಿಹರಿಸಲು  ನಾನು ನನ್ನ ಸೀನಿಯರ್  ಹತ್ತಿರ ಮಾತನಾಡಿ  ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಲು  ತಿಳಿಸುತ್ತೇನೆ .ದಯವಿಟ್ಟು ಕಾಳಜಿ ವಹಿಸಿ."
+    },
+    {
+        "Frame ID": "PreDue",
+        "Response_ID": "utter_disagree_to_pay_reason_accepted",
+        "Tone": "Sympathetic",
+        "Comments": "",
+        "English": " I am really sorry to hear that. Please maintain sufficient balance in your A/C till the EMI amount is cleared to avoid late charges. Thank you!",
+        "Hindi": "ये सुनकर दुःख हुआ। प्लीज़ लेट चार्जेस से बचने के लिए आप अपने अकाउंट में पर्याप्त बैलेंस बनाएं रखें। धन्यवाद। ",
+        "Kannada": "ಅದನ್ನು ಕೇಳಲು ನಾನು ನಿಜವಾಗಿಯೂ ವಿಷಾದಿಸುತ್ತೇನೆ. ಲೇಟ್ ಚಾರ್ಜಸ್ ಅನ್ನು ತಪ್ಪಿಸಲು ,ಇಎಂಐ ಮೊತ್ತವು ಕ್ಲಿಯರ್ ಆಗುವ ವರೆಗೆ ದಯವಿಟ್ಟು ನಿಮ್ಮ ಅಕೌಂಟಲ್ಲಿ ಸಾಕಷ್ಟು ಬ್ಯಾಲೆನ್ಸ್ ಅನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ. ಧನ್ಯವಾದಗಳು!"
+    },
+    {
+        "Frame ID": "PreDue",
+        "Response_ID": "utter_disagree_to_pay_reason_unaccepted",
+        "Tone": "Stern",
+        "Comments": "",
+        "English": "If you skip your EMI payment your CIBIL score will be impacted and will also lead to additional late payment charges. We recommend you to maintain sufficient balance to avoid such impact. Thanks!",
+        "Hindi": "यदि आप अपनी ईएमआई पेमेंट करना भूल गए तो आपका क्रेडिट स्कोर ख़राब होगा और आपको लेट चार्जेस भी देने पड़ेंगे । हमारा सुझाव है कि आप लेट चार्जेस से बचने के लिए अपने अकाउंट में पर्याप्त बैलेंस बनाएं रखें। धन्यवाद। ",
+        "Kannada": "ನಿಮ್ಮ ಇಎಂಐ ಪೆಮೆಂಟನ್ನು ನೀವು ತಪ್ಪಿಸಿದರೆ ಅದು ನಿಮ್ಮ ಸಿಬಿಲ್ ಸ್ಕೋರ್ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಮತ್ತು ಹೆಚ್ಚುವರಿ ಲೇಟ್ ಪೇಮೆಂಟ್ ಚಾರ್ಜಸ್ಗಳಿಗೆ  ಕಾರಣವಾಗುತ್ತದೆ. ಅಂತಹ ಪರಿಣಾಮವನ್ನು ತಪ್ಪಿಸಲು ಸಾಕಷ್ಟು ಬ್ಯಾಲನ್ಸನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ನಾವು ನಿಮಗೆ ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ. ಧನ್ಯವಾದಗಳು!"
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_greet_a_due_date",
+        "Tone": "Neutral to Friendly",
+        "Comments": "",
+        "English": "Hello, I'm calling from KreditBee. Payment of your CreditATM is due today. Please make sure you pay this amount to avoid late payment charges. Can I share the payment link with you?",
+        "Hindi": "हेलो, मै क्रेडिटबी से कॉल कर रही हूँ। आपके क्रेडिट एटीएम  की पेमेंट का आज लास्ट डे है क्या मै आपके साथ पेमेंट लिंक शेयर कर दूँ?",
+        "Kannada": "ಹಲೋ, ನಾನು ಕ್ರಿಡಿಟ್ ಬೀಯಿಂದ ಕರೆ ಮಾಡುತ್ತಿದ್ದೇನೆ. ನಿಮ್ಮ ಕ್ರೆಡಿಟ್ ಎಟಿಎಂ ನ ಪೇಮೆಂಟ್ ಇಂದು ಬಾಕಿ ಇದೆ. ಲೇಟ್ ಪೇಮೆಂಟ್ ಚಾರ್ಜಸ್ ತಪ್ಪಿಸಲು ದಯವಿಟ್ಟು ಇಂದೇ ಪೆ ಮಾಡಿ  .ನಾನು ಪೇಮೆಂಟ್  ಲಿಂಕ್ ಅನ್ನು ನಿಮಗೆ ಶೇರ್ ಮಾಡಬಹುದಾ?"
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_greet_b_due_date",
+        "Tone": "Neutral to Friendly",
+        "Comments": "",
+        "English": "Hello, [pause for 1 sec] I'm calling from KreditBee. Today is the payment date of your CreditATM. Can you please make the payment?",
+        "Hindi": "हेलो,[pause for 1 sec ] क्रेडिटबी से कॉल कर रही हूँ। आपके क्रेडिट एटीएम  की पेमेंट का आज लास्ट डे है क्या मै आपके साथ पेमेंट लिंक शेयर कर दूँ?",
+        "Kannada": "ಹಲೋ, [pause for 1 sec] ನಾನು ಕ್ರಿಡಿಟ್ ಬೀಯಿಂದ ಕರೆ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಇಂದು ನಿಮ್ಮ ಕ್ರೆಡಿಟ್ ಎಟಿಎಂ ನ ಪೇಮೆಂಟ್  ದಿನಾಂಕವಾಗಿದೆ. ದಯವಿಟ್ಟು ನೀವು  ಪೇಮೆಂಟ್ ಮಾಡಬಹುದಾ?   "
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_agree_to_pay_due_date",
+        "Tone": "Friendly",
+        "Comments": "",
+        "English": "great! Please make sure you pay the amount today. I'm sending you a payment link through SMS. Please pay by clicking on the link. Thanks!",
+        "Hindi": "बहुत बढ़िया! कृपया आज ही पेमेंट कर दें। मै आपको पेमेंट लिंक एसएमएस से भेज रही हूँ। कृपया लिंक पर क्लिक करके पेमेंट करें। धन्यवाद। ",
+        "Kannada": "ಒಳೆಯದ್ದು! ದಯವಿಟ್ಟು ನೀವು ಇಂದು ಮೊತ್ತವನ್ನು ಪೆ ಮಾಡುತ್ತೀರಾ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ನಾನು ನಿಮಗೆ ಎಸ್ಎಂಎಸ್ ಮೂಲಕ ಪೇಮೆಂಟ್ ಲಿಂಕ್ ಕಳುಹಿಸುತ್ತಿದ್ದೇನೆ. ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ದಯವಿಟ್ಟು ಪೇಮೆಂಟ್ ಮಾಡಿ. ಧನ್ಯವಾದಗಳು!"
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_ptp_given_due_date",
+        "Tone": "Friendly",
+        "Comments": "",
+        "English": "Okay but this delay can affect your credit health and also become a hindrance in getting loans in future. Can you arrange funds and pay this today itself?",
+        "Hindi": "ओके, पर लेट पेमेंट करने से आपके क्रेडिट स्कोर पर असर होगा जिससे आपको भविष्य मे लोन्स लेने मे परेषानी हो सकती है । क्या आप आज ही फंड्स अर्रेंज करके पेमेंट कर सकते हैं?",
+        "Kannada": "ಸರಿ, ಆದರೆ ಈ ವಿಳಂಬವು ನಿಮ್ಮ ಕ್ರೆಡಿಟ್ ಹೆಲ್ತ್ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು ಮತ್ತು ಭವಿಷ್ಯದಲ್ಲಿ ಸಾಲಗಳನ್ನು ಪಡೆಯಲು ಅಡ್ಡಿಯಾಗಬಹುದು. ನೀವು ಹಣವನ್ನು ವ್ಯವಸ್ಥೆ ಮಾಡಿ  ಇಂದು ಪೆ ಮಾಡಬಹುದಾ ?"
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_delay_reason_due_date",
+        "Tone": "Curious - uncomfortable",
+        "Comments": "",
+        "English": "May I know the reason for this delay?",
+        "Hindi": "क्या आप मुझे लेट पेमेंट करने की वजह बता सकते हैं?",
+        "Kannada": "ಈ ವಿಳಂಬಕ್ಕೆ ಕಾರಣವನ್ನು ನನಗೆ ತಿಳಿಸಬಹುದಾ ?"
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_not_accepted_reason_due_date",
+        "Tone": "Persuasive",
+        "Comments": "",
+        "English": "Well, this delay can impact your credit score. Please arrange the funds and pay your dues on time. Thanks!",
+        "Hindi": "लेट पेमेंट करने से आपका क्रेडिट स्कोर ख़राब होगा। प्लीज़ फंड्स अर्रेंज करके अपनी पेमेंट टाइम से करें। धन्यवाद।",
+        "Kannada": "ಆದರೆ, ಈ ವಿಳಂಬವು ನಿಮ್ಮ ಕ್ರೆಡಿಟ್ ಸ್ಕೋರ್ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು. ದಯವಿಟ್ಟು ಹಣವನ್ನು ಹೊಂದಿಸಿ ಮತ್ತು ಬಾಕಿಯನ್ನು  ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ಪೆ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ. ಧನ್ಯವಾದಗಳು ."
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_medical_reson_due_date",
+        "Tone": "Empathatic",
+        "Comments": "",
+        "English": "Oh! I am sorry to hear that. I will ask my senior to get in touch with you. Please take care.",
+        "Hindi": "ओह! सॉरी टू हियर दैट। इस  बारे में, हमारे सीनियर एक्जीक्यूटिव आपसे कॉन्टैक्ट करेंगे। अपना ध्यान रखें। ",
+        "Kannada": "ಓಹ್! ಅದನ್ನು ಕೇಳಲು ನಾನು ವಿಷಾದಿಸುತ್ತೇನೆ. ನಿಮ್ಮೊಂದಿಗೆ ಸಂಪರ್ಕದಲ್ಲಿರಲು ನಾನು ನನ್ನ ಸೀನಿಯರ್ ಗೆ  ತಿಳಿಸುತ್ತೆನೆ .  ದಯವಿಟ್ಟು ಕಾಳಜಿ ವಹಿಸಿ."
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_accepted_reason_due_date",
+        "Tone": "Empathatic",
+        "Comments": "",
+        "English": "Oh! sorry to hear that. If possible, please try to make the payment today. Thanks!",
+        "Hindi": "ओह! सॉरी टू हियर दैट। अगर हो सके तो प्लीज़ आज ही पेमेंट कर दीजिये। धन्यवाद।",
+        "Kannada": "ಓಹ್! ಅದನ್ನು ಕೇಳಲು ನಾನು ನಿಜವಾಗಿಯೂ ವಿಷಾದಿಸುತ್ತೇನೆ.ಸಾಧ್ಯವಾದರೆ ದಯವಿಟ್ಟು ಇವತ್ತೇ ಪೆ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ.ಧನ್ಯವಾದಗಳು!"
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_greet_again_due_date",
+        "Tone": "Neutral to Friendly",
+        "Comments": "",
+        "English": "I'm calling from KreditBee",
+        "Hindi": "मैं क्रेडिटबी से कॉल कर रही हूँ।",
+        "Kannada": "ನಾನು ಕ್ರಿಡಿಟ್ ಬೀಯಿಂದ ಕರೆ ಮಾಡುತ್ತಿದ್ದೇನೆ"
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_payment_link_confirmation_due_date",
+        "Tone": "Neutral to Friendly",
+        "Comments": "",
+        "English": "Can I share the payment link with you?",
+        "Hindi": "क्या मै आपके साथ पेमेंट लिंक शेयर कर दूँ?",
+        "Kannada": "ನಾನು ಪೇಮೆಂಟ್ ಲಿಂಕ್ ಅನ್ನು ನಿಮಗೆ ಶೇರ್ ಮಾಡಬಹುದಾ ?"
+    },
+    {
+        "Frame ID": "Due Date",
+        "Response_ID": "utter_not_available_to_talk",
+        "Tone": "",
+        "Comments": "",
+        "English": "Ok, so just so you know, Your account is due with Rs. {EMI_Amount}. Please make sure you pay the amount today. Thanks!",
+        "Hindi": "ओके, आपकी जानकारी के लिए बता दें कि आपके अकाउंट में {EMI_Amount} रूपए  बकाया हैं। प्लीज़ आज ही अपनी पेमेंट का भुगतान करें। आपका दिन शुभ हो!",
+        "Kannada": "ಸರಿ, ನಿಮಗೆ ತಿಳಿದಿರಲಿ, ನಿಮ್ಮ ಖಾತೆಯು ರೂ. {EMI_Amount} ಬಾಕಿ ಇದೆ . ನೀವು ಇಂದೇ ಮೊತ್ತವನ್ನು ಪೆ ಮಾಡುತ್ತೀರಾ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಧನ್ಯವಾದಗಳು!"
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_bye_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Thank you for speaking to KreditBee. Have a great day!",
+        "Hindi": "क्रेडिटबी से बात करने के लिए धन्यवाद। आपका दिन शुभ रहे।",
+        "Kannada": "ಕ್ರಿಡಿಟ್ ಬೀ ಯೊಂದಿಗೆ  ಮಾತನಾಡಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು.ಶುಭ ದಿನ!"
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_confirm_eng_hin_support_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "I can speak in English and Hindi at the moment.",
+        "Hindi": "मै इस समय इंग्लिश और हिंदी में ही बात कर सकती हूँ।",
+        "Kannada": "ನಾನು ಈ ಸಮಯದಲ್ಲಿ ಕನ್ನಡ , ಇಂಗ್ಲಿಷ್ ಮತ್ತು ಹಿಂದಿಯಲ್ಲಿ ಮಾತನಾಡಬಹುದು. "
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_apology_call_back_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Apologies, I can only speak in English and Hindi at the moment. Our agents will get in touch with you. Have a nice day!",
+        "Hindi": "सॉरी, इस समय मैं सिर्फ इंग्लिश और हिंदी में ही बात कर सकती हूँ। हमारे एजेंट्स कुछ ही देर मे आपसे संपर्क करेंगे। आपका दिन शुभ रहे।",
+        "Kannada": "ಕ್ಷಮಿಸಿ, ನಾನು ಈ ಸಮಯದಲ್ಲಿ ಕನ್ನಡ  ,ಇಂಗ್ಲಿಷ್ ಮತ್ತು ಹಿಂದಿಯಲ್ಲಿ ಮಾತ್ರ ಮಾತನಾಡಬಹುದು.ನಮ್ಮ ಏಜೆಂಟ್ ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸುತ್ತಾರೆ .ಶುಭ ದಿನ!"
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_language_preference_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Please tell me your language preference. I can speak in English and  Hindi at the moment.",
+        "Hindi": "प्लीज़ अपनी लैंग्वेज चुनें, मैं इस समय अंग्रेजी और हिंदी में आपसे बात कर सकती हूँ।",
+        "Kannada": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಭಾಷಾ ಆದ್ಯತೆಯನ್ನು ನನಗೆ ತಿಳಿಸಿ. ನಾನು ಈ ಸಮಯದಲ್ಲಿ ಕನ್ನಡ  ,ಇಂಗ್ಲಿಷ್ ಮತ್ತು ಹಿಂದಿಯಲ್ಲಿ ಮಾತನಾಡಬಹುದು."
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_apology_call_back_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Apologies, I can only speak in English and Hindi at the moment. Our agents will get in touch with you. Have a nice day!",
+        "Hindi": "मुझे क्षमा करें। मैं अभी सिर्फ हिंदी और इंग्लिश में आपसे बात कर सकती हूँ। हमारे एजेंट आपसे संपर्क करेंगे। आपका दिन शुभ रहे।",
+        "Kannada": "ಕ್ಷಮಿಸಿ, ನಾನು ಈ ಸಮಯದಲ್ಲಿ ಕನ್ನಡ ,ಇಂಗ್ಲಿಷ್ ಮತ್ತು ಹಿಂದಿಯಲ್ಲಿ ಮಾತ್ರ ಮಾತನಾಡಬಹುದು.ನಮ್ಮ ಏಜೆಂಟ್ ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸುತ್ತಾರೆ .ಶುಭ ದಿನ!"
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_ask_capability_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "I'm calling from Kreditbee. ",
+        "Hindi": "मैं क्रेडिटबी से कॉल कर रही हूँ।",
+        "Kannada": "ನಾನು ಕ್ರಿಡಿಟ್ ಬೀಯಿಂದ ಕರೆ ಮಾಡುತ್ತಿದ್ದೇನೆ. "
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_repeat_ask_payment_pre_due",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "May I know if there is sufficient balance in your account to pay the EMI?",
+        "Hindi": "क्या आप मुझे बता सकते हैं कि आपके अकाउंट में ईएमआई भरने के लिए पर्याप्त बैलेंस है या नहीं ?",
+        "Kannada": "ನಿಮ್ಮ ಅಕೌಂಟಲ್ಲಿ ಇಎಂಐ ಪೇ  ಮಾಡಲು  ಸಾಕಷ್ಟು ಬ್ಯಾಲೆನ್ಸ್ ಇದೆಯಾ ಎಂದು ನನಗೆ ತಿಳಿಯಬಹುದಾ ?"
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_inform_past_payment_date_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Your payment date is {EMI_Date}",
+        "Hindi": "आपकी पेमेंट की तारीख़ है {EMI_Date}",
+        "Kannada": "ನಿಮ್ಮ ಪೇಮೆಂಟ್  ದಿನಾಂಕ {EMI_Date}."
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_inform_outstanding_ml_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Your due amount is Rs. {EMI_Amount}",
+        "Hindi": "आपके अकाउंट पर {EMI_Amount} रूपये की पेमेंट पेंडिंग है। ",
+        "Kannada": "ನಿಮ್ಮ ಬಾಕಿ ಮೊತ್ತ ರೂ.{EMI_Amount} ಆಗಿದೆ "
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_general_queries_customer_care_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "For further information or queries, you can contact the customer care service. ",
+        "Hindi": "इन प्रश्नों के लिए, प्लीज़ कस्टमर केयर सर्विस को कॉन्टैक्ट करें।",
+        "Kannada": "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ ಅಥವಾ ಪ್ರಶ್ನೆಗಳಿಗಾಗಿ, ನೀವು ಕಸ್ಟಮರ್  ಕೇರ್ ಅನ್ನು   ಸಂಪರ್ಕಿಸಬಹುದು."
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_apology_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Sorry for the inconvenience.",
+        "Hindi": "असुविधा के लिए हमें खेद है।",
+        "Kannada": "ಅನಾನುಕೂಲತೆಗಾಗಿ ಕ್ಷಮಿಸಿ."
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_idle_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Sorry I was not able to hear you.",
+        "Hindi": "क्षमा करें, मैं आपको सुन नहीं पायी।",
+        "Kannada": "ಕ್ಷಮಿಸಿ, ನನಗೆ ನಿಮ್ಮ ಮಾತು  ಕೇಳಿಸಲಿಲ್ಲ."
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_idle_bye_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Since I'm unable to hear you, I am disconnecting this call.",
+        "Hindi": "मैं आपको सुन नहीं पा रही हूं, इसलिए मैं यह कॉल डिस्कनेक्ट कर रही हूं।",
+        "Kannada": "ನನಗೆ  ನಿಮ್ಮ ಮಾತು ಕೆಲ್ಸದೇ ಇರುವ ಕಾರಣ  ನಾನು ಈ ಕರೆಯನ್ನು ಡಿಸ್ಕನೆಕ್ಟ್ ಮಾಡುತ್ತಿದ್ದೇನೆ."
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_human_handoff_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "For further information or queries, you can contact the customer care service. ",
+        "Hindi": "इन प्रश्नों के लिए, प्लीज़ कस्टमर केयर सर्विस को कॉन्टैक्ट करें।",
+        "Kannada": "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ ಅಥವಾ ಪ್ರಶ್ನೆಗಳಿಗಾಗಿ, ನೀವು ನಮ್ಮ ಕಸ್ಟಮರ್ ಕೇರ್ ಅನ್ನು  ಸಂಪರ್ಕಿಸಬಹುದು."
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_agent_will_connect_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Thank you for your time. Our agents will call you shortly.",
+        "Hindi": "मुझे अपना समय देने के लिए धन्यवाद। हमारे एजेंट जल्दी ही आपसे संपर्क करेंगे।",
+        "Kannada": "ನಿಮ್ಮ ಸಮಯಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು. ನಮ್ಮ ಏಜೆಂಟ್  ಶೀಘ್ರದಲ್ಲೇ ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತಾರೆ."
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_default_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Pardon. I could not understand you.",
+        "Hindi": "क्षमा करें। मैं आपकी बात समझ नहीं पाई। ",
+        "Kannada": "ಕ್ಷಮಿಸಿ . ನನಗೆ ನಿಮ್ಮ ಮಾತು  ಅರ್ಥವಾಗಲಿಲ್ಲ."
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_user_said_thank_you_common",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "I'm glad to help you.",
+        "Hindi": "आपकी सहायता करके मुझे खुशी हुई।",
+        "Kannada": "ನಿಮಗೆ ಸಹಾಯ ಮಾಡಲು ನನಗೆ ಸಂತೋಷವೇ."
+    },
+    {
+        "Frame ID": "Common",
+        "Response_ID": "utter_customer_informed_wait",
+        "Tone": "Neutral",
+        "Comments": "",
+        "English": "Sure, I am waiting",
+        "Hindi": "ज़रूर, मैं वेट कर रही हूँ।",
+        "Kannada": "ಖಂಡಿತ, ನಾನು ಕಾಯುತ್ತಿದ್ದೇನೆ."
+    }
+]

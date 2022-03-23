@@ -1,0 +1,16 @@
+"Hello, I'm calling from Cred. Your EMI of Rs."	242c0162364a715fb26e454486893560
+"monthly_emi"	064f853b1680a53a12c8a6e1139aca99
+" is due since "	705722f7081feaf79c1f4aa38154e1fe
+"emi_date"	cae85d8ba1466c91ade412a505b08c0d
+"."	5058f1af8388633f609cadb75a75dc9d
+"Ok. Please make sure you pay the amount before "	2dc35539755d1ba2e89e0dabab344749
+"ptp_day"	825365807f8f152c2111532fc3415e83
+" through the Cred App."	225d74d5b30129447ba63588aed30b8f
+"Please pay the amount before "	8fa42565d0747063d88ca2c1ff4c26df
+"ptp_day"	825365807f8f152c2111532fc3415e83
+" through the Cred App."	225d74d5b30129447ba63588aed30b8f
+"Hello, I'm calling from Cred. Your EMI of Rs."	242c0162364a715fb26e454486893560
+"total_emi"	6db5b1431e9789c124535b4822ec2b39
+" across "	53777307a31d0b74c33a222e0b7ff814
+"no_of_loans"	4f88d402c1509297d641f9c3ac046253
+" accounts is overdue."	cd595c43624cf0e52923d39a9e48e845
