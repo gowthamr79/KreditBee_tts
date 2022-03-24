@@ -9,7 +9,7 @@ def find_hash(text):
     file_name = str(hash_object.hexdigest())
     return template, file_name
 
-with open("bot_responses.json","r") as f:
+with open("Sheet1.json","r") as f:
     data=json.load(f)
 
 # PATH="/home/azureuser/cred-tts/CRED NEW RESPONSES/ENGLISH/"
@@ -82,4 +82,4 @@ with open("bot_responses.json","r") as f:
 #54ffeededb255dd96bb9216c89c17ed8
 #b4afd75fd559998ed24a370a4e6c01b5
 
-print(find_hash("অবশ্যই,আমি অপেক্ষা করছি।"))
+print(find_hash("ನಿಮ್ಮ ಸಮಯಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು. ನಮ್ಮ ಏಜೆಂಟ್  ಶೀಘ್ರದಲ್ಲೇ ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತಾರೆ."))
